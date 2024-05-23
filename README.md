@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy un apasionado por la tecnologia, actualmente estoy profundizando en Java con SpringBoot.<br>Actualmente estoy buscando la oportunidad de entrar en el minod de las IT<br>Inicie con Oracle Next Education, un boot camp realizado en colaboracion con alura que me dio las bases necesarias desde html, sql, Java(JPA, Servlet, Hibernate, entre otros).<br>Soy profesional en administracion de empresas, me encanta comer y amo los perros. 
+Mi formacion inicio gracias a la iniciativa de Oracle One Next Education y alura donde inicie mi formacion como programador.<br>El Boot Camp me dio las bases necesarias desde html, sql, Java(JPA, Servlet, Hibernate, entre otros).<br>He participado en varios procesos colaborativos con Java y SpringBoot y he realizado proyectos como freelancer para pymes con C# y Windows Form. 
 
 
 ## 🌐 Socials:
