@@ -1,5 +1,7 @@
 # 💫 About Me:
-Mi formacion inicio gracias a la iniciativa de Oracle One Next Education y alura donde inicie mi formacion como programador.<br>El Boot Camp me dio las bases necesarias desde html, sql, Java(JPA, Servlet, Hibernate, entre otros).<br>He participado en varios procesos colaborativos con Java y SpringBoot y he realizado proyectos como freelancer para pymes con C# y Windows Form. 
+Mi formacion inicio gracias a la iniciativa de Oracle One Next Education y alura donde inicie mi formacion como programador. <br>
+He participado en varios procesos colaborativos con Java y SpringBoot y he realizado proyectos como freelancer para pymes con<br>
+C# y Windows Form. El Boot Camp me dio las bases necesarias desde html, sql, Java(JPA, Servlet, Hibernate, entre otros).<br>
 
 
 ## 🌐 Socials:
