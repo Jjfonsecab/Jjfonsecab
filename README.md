@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy Jeison Javier Fonseca Borda, un desarrollador enfocado en Java y C#. Me especializo en crear APIs robustas y aplicaciones web.<br><br>Mi Stack<br>Lenguajes: Java, C#<br>Frameworks: SpringBoot, Jpa, Hibernate, SpringSecurity<br>Bases de Datos: MySQL, SQLServer<br>Herramientas: JWT, Heroku, Railway<br>Me apasiona aprender y trabajar en equipo para resolver problemas con tecnología.
+¡Hola! Soy Jeison Javier Fonseca Borda, un desarrollador enfocado en Java y C#. Me especializo en crear APIs, Monolitos y aplicaciones web.<br><br>Mi Stack<br>Lenguajes: Java, C#<br>Frameworks: SpringBoot, Jpa, Hibernate, SpringSecurity<br>Bases de Datos: MySQL, SQLServer<br>Herramientas: JWT, Heroku, Railway, Azure, Docker<br>Me apasiona aprender y trabajar en equipo para resolver problemas con tecnología.
 
 
 ## 🌐 Socials:
